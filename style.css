@@ -1,0 +1,26 @@
+.A{
+   list-style: none;
+
+}
+li{
+    float: left;
+    padding: 40px;
+    background-color: antiquewhite;
+}
+li:hover{
+    background-color: aqua;
+}
+.a{
+    text-decoration: none;
+}
+
+    
+
+.B{
+    list-style: none;
+    position: absolute;
+   
+}
+nav>ul>li:hover{
+    display: block;
+}
